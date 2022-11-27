@@ -1,2 +1,2 @@
 # easypython
-easy python github
+import : from script import *
