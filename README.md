@@ -1,3 +1,2 @@
 # easypython
-easy python github
-from script import *
+import : from script import *
